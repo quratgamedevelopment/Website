@@ -7,6 +7,7 @@ public class MouseLook : MonoBehaviour
      [SerializeField]
     private Transform playerRoot,lookRoot;
     
+    
 
     [SerializeField]
     private bool invert;
